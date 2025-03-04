@@ -36,8 +36,8 @@ Spark-Set-Similarity-Join/
 ### Databricks Configuration
 1. Access [Databricks Community Edition](https://community.cloud.databricks.com)
 2. Create cluster with:
-   - Runtime: 13.3 LTS (Apache Spark 3.4.1, Scala 2.12)
-   - Python: 3.10
+   - Runtime: 12.2 LTS (Apache Spark 3.3.2)
+   - Python: 3.9
    - Node Type: Standard_DS3_v2
 
 ### Required Libraries
