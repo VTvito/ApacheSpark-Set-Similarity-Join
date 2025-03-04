@@ -27,7 +27,8 @@ Spark-Set-Similarity-Join/
 │   └── tokenization/
 │       └── Set_Similarity_Join_with_Spark_word-tokenization_step_by_step_def.ipynb
 └── data/
-    └── 50KIdDuplicates.json
+    └── [XXX]KIdDuplicates.json
+    └── [XXX]KProfiles.json
 ```
 
 ## 🔧 Environment Setup
