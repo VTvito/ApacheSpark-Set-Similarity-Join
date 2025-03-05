@@ -6,12 +6,11 @@ Included a step-by-step guide, pipeline version, and tokenization techniques (co
 and a complete presentation of the project in powerpoint.
 
 ## 🛠️ Core Features
-- **Advanced Text Processing & Tokenization**
+- **Text Pre-Processing & Tokenization**
 - **Multiple Filtering Techniques:**
-  - Length Filtering: `|A ∩ B| ≤ |A| ≤ |B|`
-  - Prefix Filtering: Reduces candidate pairs
-  - Positional Filtering: Optimizes comparison space
-  - Suffix Filtering: Final refinement step
+  - Prefix Filtering
+  - Length Filtering: 
+  - Positional Filtering
 - **Jaccard Similarity Calculation**
 - **Performance Optimizations**
 
