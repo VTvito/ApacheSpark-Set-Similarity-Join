@@ -1,4 +1,4 @@
-# Set Similarity Join with Apache Spark 🚀
+# Set Similarity Join with Apache Spark
 
 ## Project Overview
 Implementation of Set Similarity Join operations using Apache Spark, focusing on different filtering techniques for large-scale text comparison. Developed and tested on Databricks Community Edition.
